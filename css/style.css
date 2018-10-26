@@ -8,9 +8,10 @@ html, body {
   background-position: 50%;
   height: 75vh;
   position: relative;
+  padding: 25px;
 }
 
-.main:after {
+/* .main:after {
   content: '';
   position: absolute;
   top: 0;
@@ -19,7 +20,8 @@ html, body {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, .4);
-}
+} */
+
 
 .main .navbar {
   background: none !important;
